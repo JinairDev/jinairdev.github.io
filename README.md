@@ -40,3 +40,7 @@ npm run preview
 ```
 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment) for more information.
+
+## References
+
+- <https://github.com/piscis/nuxt-quasar-boilerplate>
